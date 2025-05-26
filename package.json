@@ -55,7 +55,7 @@
         "@bbob/preset-html5": "4.2.0",
         "@hono/node-server": "1.14.2",
         "@hono/zod-openapi": "0.19.6",
-        "@notionhq/client": "3.1.1",
+        "@notionhq/client": "3.1.2",
         "@opentelemetry/api": "1.9.0",
         "@opentelemetry/exporter-prometheus": "0.201.1",
         "@opentelemetry/exporter-trace-otlp-http": "0.201.1",
@@ -138,7 +138,7 @@
         "winston": "3.17.0",
         "xxhash-wasm": "1.1.0",
         "youtubei.js": "13.4.0",
-        "zod": "3.25.23"
+        "zod": "3.25.28"
     },
     "devDependencies": {
         "@babel/preset-env": "7.27.2",
@@ -195,7 +195,7 @@
         "prettier": "3.5.3",
         "remark-parse": "11.0.0",
         "supertest": "7.1.1",
-        "tsdown": "0.12.2",
+        "tsdown": "0.12.3",
         "typescript": "5.8.3",
         "unified": "11.0.5",
         "vite-tsconfig-paths": "5.1.4",
