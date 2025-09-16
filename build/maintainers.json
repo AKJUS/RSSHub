@@ -332,6 +332,9 @@
   "/acg17/post/all": [
     "SunBK201"
   ],
+  "/acgvinyl/news": [
+    "williamgateszhao"
+  ],
   "/acpaa/:id?/:name?": [
     "nczitzk"
   ],
@@ -6767,6 +6770,9 @@
   ],
   "/samd/news/:typeId": [
     "hualiong"
+  ],
+  "/samrdprc/:id{.+}?": [
+    "nczitzk"
   ],
   "/samrdprc/news/:type1/:type2": [
     "a180285"
