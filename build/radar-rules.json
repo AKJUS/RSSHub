@@ -12119,6 +12119,19 @@
       }
     ]
   },
+  "crush.ninja": {
+    "_name": "CrushNinja",
+    "www": [
+      {
+        "title": "匿名投稿頁面",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/:locale/pages/:id"
+        ],
+        "target": "/crush/pages/:id"
+      }
+    ]
+  },
   "cryptoslate.com": {
     "_name": "CryptoSlate",
     ".": [
@@ -19836,16 +19849,6 @@
           "/17549/list.htm"
         ],
         "target": "/hit/hitgs/17549"
-      }
-    ],
-    "jwc": [
-      {
-        "title": "教务处通知公告",
-        "docs": "https://docs.rsshub.app/routes/university",
-        "source": [
-          "/*"
-        ],
-        "target": "/hit/jwc"
       }
     ],
     "today": [
@@ -40289,6 +40292,16 @@
   },
   "tsinghua.edu.cn": {
     "_name": "清华大学",
+    "www": [
+      {
+        "title": "清华新闻",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/news/:category"
+        ],
+        "target": "/tsinghua(_,url)=>`/tsinghua/news/${new URL(url).pathname.split(\"/\").pop()?.replace(\".htm\",\"\")}`"
+      }
+    ],
     "lib": [
       {
         "title": "图书馆通知公告",
@@ -42146,6 +42159,19 @@
           "/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85"
         ],
         "target": "/wikinews/latest"
+      }
+    ]
+  },
+  "wikipedia.org": {
+    "_name": "Wikipedia",
+    "en": [
+      {
+        "title": "Current Events",
+        "docs": "https://docs.rsshub.app/routes/new-media",
+        "source": [
+          "/wiki/Portal:Current_events"
+        ],
+        "target": "/wikipedia/wikipedia/current-events"
       }
     ]
   },
