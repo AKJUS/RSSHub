@@ -5163,6 +5163,9 @@
   "/mercari/:sort/:order/:status/:keyword": [
     "yana9i"
   ],
+  "/mercari/search/:query": [
+    "yana9i, Tsuyumi25"
+  ],
   "/meta/ai/blog": [
     "TonyRL"
   ],
@@ -5934,6 +5937,18 @@
     "Lava-Swimmer",
     "noname1776",
     "camera-2018"
+  ],
+  "/nycu/aa/:id?": [
+    "simbafs"
+  ],
+  "/nycu/announcement/:type": [
+    "simbafs"
+  ],
+  "/nycu/cs/:category?": [
+    "simbafs"
+  ],
+  "/nycu/osa/:id?": [
+    "simbafs"
   ],
   "/nymity/censorbib": [
     "xtexChooser"
