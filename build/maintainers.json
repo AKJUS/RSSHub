@@ -1551,6 +1551,9 @@
   "/chinathinktanks/:id": [
     "Aeliu"
   ],
+  "/chinatimes/:category?": [
+    "KingJem"
+  ],
   "/chinaventure/news/:id?": [
     "yuxinliu-alex"
   ],
@@ -4978,12 +4981,6 @@
   "/lovelive-anime/news/:abbr?/:category?/:option?": [
     "axojhf",
     "zhaoweizhong"
-  ],
-  "/lovelive-anime/schedules/:serie?/:category?": [
-    "axojhf"
-  ],
-  "/lovelive-anime/topics/:abbr/:category?/:option?": [
-    "axojhf"
   ],
   "/lrepacks/:category?": [
     "nczitzk"
