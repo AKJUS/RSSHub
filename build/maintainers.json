@@ -416,6 +416,9 @@
   "/aibase/topic/:id?/:filter?": [
     "nczitzk"
   ],
+  "/aiblog-2xv/archives": [
+    "Liao-Ke"
+  ],
   "/aicaijing/:category?/:id?": [],
   "/aiea/seminars/:period": [
     "zxx-457"
@@ -1731,7 +1734,7 @@
     "Derekmini",
     "pseudoyu"
   ],
-  "/cnljxh/news/:id?": [
+  "/cnljxh/:category?/:id?": [
     "nczitzk"
   ],
   "/cntheory/paper/:id?": [
