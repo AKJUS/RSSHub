@@ -11322,6 +11322,19 @@
       }
     ]
   },
+  "cloudflarestatus.com": {
+    "_name": "Cloudflare Status",
+    "www": [
+      {
+        "title": "Status",
+        "docs": "https://docs.rsshub.app/routes/programming",
+        "source": [
+          "/"
+        ],
+        "target": "/cloudflarestatus/"
+      }
+    ]
+  },
   "cls.cn": {
     "_name": "财联社",
     ".": [
@@ -15006,6 +15019,16 @@
   },
   "ecnu.edu.cn": {
     "_name": "East China Normal University 华东师范大学",
+    "bksy": [
+      {
+        "title": "本科生院通知",
+        "docs": "https://docs.rsshub.app/routes/university",
+        "source": [
+          "/"
+        ],
+        "target": "/ecnu/tzgg"
+      }
+    ],
     "acm": [
       {
         "title": "ACM Online-Judge contests list",

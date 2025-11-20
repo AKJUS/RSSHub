@@ -1639,6 +1639,9 @@
   "/cline/blog": [
     "yeshan333"
   ],
+  "/cloudflarestatus/": [
+    "nczitzk"
+  ],
   "/cloudnative/blog": [
     "aneasystone"
   ],
@@ -2536,6 +2539,10 @@
   ],
   "/ebc/realtime/:category?": [
     "quiniapiezoelectricity"
+  ],
+  "/ecnu/bksy": [
+    "ChiyoYuki",
+    "FrozenStarrrr"
   ],
   "/ecnu/acm/contest/:category?": [
     "a180285"
