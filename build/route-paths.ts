@@ -2299,6 +2299,7 @@ export type RoutePath =
   | `/reactnewsletter/`
   | `/readhub/:category?`
   | `/readhub/daily`
+  | `/readsomethingwonderful/`
   | `/readwise/list/:routeParams?`
   | `/rebase/geekdaily`
   | `/remnote/changelog`
@@ -2630,6 +2631,7 @@ export type RoutePath =
   | `/techcrunch/news`
   | `/techflowpost/`
   | `/techflowpost/express`
+  | `/techflowpost/featured/:category?`
   | `/techpowerup/`
   | `/techpowerup/review/:keyword?`
   | `/techsir/`
