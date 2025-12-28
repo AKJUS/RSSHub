@@ -1188,6 +1188,9 @@
   "/bt0/tlist/:sc/:domain?": [
     "miemieYaho"
   ],
+  "/btbtla/detail/:name": [
+    "Hermes1030"
+  ],
   "/btbtla/gxlist": [
     "Hermes1030"
   ],
@@ -2170,6 +2173,9 @@
   ],
   "/deltaio/blog": [
     "RengarLee"
+  ],
+  "/denonbu/news/:area?": [
+    "outloudvi"
   ],
   "/dev.to/guides": [
     "Rjnishant530"
