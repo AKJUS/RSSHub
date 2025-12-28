@@ -392,7 +392,6 @@ export type RoutePath =
   | `/bsky/profile/:handle/feed/:space/:routeParams?`
   | `/bt0/mv/:number/:domain?`
   | `/bt0/tlist/:sc/:domain?`
-  | `/btbtla/detail/:name`
   | `/btbtla/gxlist`
   | `/btzj/:category?`
   | `/buaa/jiaowu/:cddm?`
@@ -723,7 +722,6 @@ export type RoutePath =
   | `/deepseek/news`
   | `/dehenglaw/:language?/:category?`
   | `/deltaio/blog`
-  | `/denonbu/news/:area?`
   | `/dev.to/guides`
   | `/dev.to/top/:period`
   | `/devolverdigital/blog`
