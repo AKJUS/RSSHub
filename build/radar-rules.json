@@ -12483,19 +12483,6 @@
       }
     ]
   },
-  "costar.com": {
-    "_name": "CoStar",
-    "www": [
-      {
-        "title": "Press Releases",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/costar(_,url)=>{const filter=new URL(url).search?.replace(/\\?/,\"\");return`/costar/press-releases${filter?`/${filter}`:\"\"}`}"
-      }
-    ]
-  },
   "counter-strike.net": {
     "_name": "Counter Strike",
     "www": [
@@ -44750,7 +44737,7 @@
         "title": "南京市",
         "docs": "https://docs.rsshub.app/routes/forecast",
         "source": [
-          "/portal/10000015",
+          "/portal/10000013",
           "/"
         ],
         "target": "/tingshuitz/nanjing"
