@@ -1887,6 +1887,9 @@
   "/cosplaytele/tag/:tag": [
     "AiraNadih"
   ],
+  "/costar/press-releases/:filter{.+}?": [
+    "nczitzk"
+  ],
   "/counter-strike/news/:category?/:language?": [
     "nczitzk"
   ],
@@ -8319,7 +8322,8 @@
     "znhocn"
   ],
   "/tingshuitz/nanjing": [
-    "ocleo1"
+    "ocleo1",
+    "pseudoyu"
   ],
   "/tingshuitz/shenzhen": [
     "lilPiper"
