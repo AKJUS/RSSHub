@@ -5157,6 +5157,19 @@
       }
     ]
   },
+  "alwayscontrol.com.cn": {
+    "_name": "Always Control",
+    "www": [
+      {
+        "title": "最新动态",
+        "docs": "https://docs.rsshub.app/routes/other",
+        "source": [
+          "/zh-CN/news/list"
+        ],
+        "target": "/alwayscontrol/news"
+      }
+    ]
+  },
   "amazfitwatchfaces.com": {
     "_name": "Amazfitwatchfaces",
     ".": [
@@ -5425,6 +5438,16 @@
           "/"
         ],
         "target": "/anthropic/research"
+      }
+    ],
+    "red": [
+      {
+        "title": "Frontier Red Team",
+        "docs": "https://docs.rsshub.app/routes/programming",
+        "source": [
+          "/"
+        ],
+        "target": "/anthropic/red"
       }
     ]
   },
@@ -37368,7 +37391,8 @@
         "title": "Home",
         "docs": "https://docs.rsshub.app/routes/new-media",
         "source": [
-          "/:creator"
+          "/:creator",
+          "/cw/:creator"
         ],
         "target": "/patreon/:creator"
       }

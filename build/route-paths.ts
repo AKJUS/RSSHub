@@ -173,6 +173,7 @@ export type RoutePath =
   | `/alternativeto/platform/:name/:routeParams?`
   | `/alternativeto/software/:name/:routeParams?`
   | `/altotrain/:language?`
+  | `/alwayscontrol/news`
   | `/amazfitwatchfaces/:device/:sort/:searchParams?`
   | `/amazon/awsblogs/:locale?`
   | `/amazon/kindle/software-updates`
@@ -185,6 +186,7 @@ export type RoutePath =
   | `/anquanke/:category/:fulltext?`
   | `/anthropic/engineering`
   | `/anthropic/news`
+  | `/anthropic/red`
   | `/anthropic/research`
   | `/anytxt/release-notes`
   | `/apache/apisix/blog`
