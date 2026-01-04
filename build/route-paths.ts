@@ -185,7 +185,6 @@ export type RoutePath =
   | `/anquanke/:category/:fulltext?`
   | `/anthropic/engineering`
   | `/anthropic/news`
-  | `/anthropic/red`
   | `/anthropic/research`
   | `/anytxt/release-notes`
   | `/apache/apisix/blog`
