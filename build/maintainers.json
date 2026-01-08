@@ -5413,9 +5413,6 @@
   "/matters/tags/:tid": [
     "Cerebrater"
   ],
-  "/maven/central/:group/:artifact": [
-    "chrisis58"
-  ],
   "/mckinsey/cn/:category?": [
     "laampui"
   ],
@@ -6249,9 +6246,6 @@
     "Lava-Swimmer",
     "noname1776",
     "camera-2018"
-  ],
-  "/nyc/mayors-office-news/:types?/:categories?": [
-    "hkamran80"
   ],
   "/nycu/aa/:id?": [
     "simbafs"

@@ -1781,7 +1781,6 @@ export type RoutePath =
   | `/matters/author/:uid`
   | `/matters/latest/:type?`
   | `/matters/tags/:tid`
-  | `/maven/central/:group/:artifact`
   | `/mckinsey/cn/:category?`
   | `/mcmod/:type`
   | `/mdpi/:journal`
@@ -2048,7 +2047,6 @@ export type RoutePath =
   | `/nyaa/sukebei/user/:username?`
   | `/nyaa/user/:username/search/:query?`
   | `/nyaa/user/:username?`
-  | `/nyc/mayors-office-news/:types?/:categories?`
   | `/nycu/aa/:id?`
   | `/nycu/announcement/:type`
   | `/nycu/cs/:category?`
