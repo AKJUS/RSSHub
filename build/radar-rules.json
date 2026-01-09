@@ -2030,12 +2030,12 @@
   },
   "50forum.org.cn": {
     "_name": "经济 50 人论坛",
-    ".": [
+    "www": [
       {
         "title": "Unknown",
         "docs": "https://docs.rsshub.app/routes/other",
         "source": [
-          "/home/article/index/category/zhuanjia.html",
+          "/portal/list/index.html?id=6",
           "/"
         ],
         "target": "/50forum/"
@@ -28985,6 +28985,20 @@
       }
     ]
   },
+  "sonatype.com": {
+    "_name": "Maven",
+    "central": [
+      {
+        "title": "Maven Central Feed",
+        "docs": "https://docs.rsshub.app/routes/programming",
+        "source": [
+          "/artifact/:group/:artifact/:suffix",
+          "/artifact/:group/:artifact"
+        ],
+        "target": "/maven/maven/central/:group/:artifact"
+      }
+    ]
+  },
   "mdpi.com": {
     "_name": "MDPI",
     "www": [
@@ -34758,6 +34772,22 @@
           "/:column/list.htm"
         ],
         "target": "/nwnu/department/postgraduate/:column"
+      }
+    ]
+  },
+  "nyc.gov": {
+    "_name": "New York City Government",
+    ".": [
+      {
+        "title": "Mayor's Office News",
+        "docs": "https://docs.rsshub.app/routes/government",
+        "source": [
+          "/",
+          "/mayors-office",
+          "/mayors-office/news/",
+          "/mayors-office/news/*"
+        ],
+        "target": "/nyc/mayors-office-news/:types?/:categories?"
       }
     ]
   },
