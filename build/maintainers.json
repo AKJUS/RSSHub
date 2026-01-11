@@ -4313,19 +4313,20 @@
   "/hust/yjs": [
     "shengmaosu"
   ],
+  "/huxiu/briefcolumn/:id": [
+    "Fatpandac",
+    "nczitzk"
+  ],
   "/huxiu/article": [
     "HenryQW",
-    "nczitzk",
-    "TimoYoung"
+    "nczitzk"
   ],
   "/huxiu/channel/:id?": [
     "HenryQW",
-    "nczitzk",
-    "TimoYoung"
+    "nczitzk"
   ],
   "/huxiu/club/:id": [
-    "nczitzk",
-    "TimoYoung"
+    "nczitzk"
   ],
   "/huxiu/collection/:id": [
     "AlexdanerZe",
@@ -4348,8 +4349,7 @@
   "/huxiu/tag/:id": [
     "xyqfer",
     "HenryQW",
-    "nczitzk",
-    "TimoYoung"
+    "nczitzk"
   ],
   "/hyperdash/top-traders": [
     "pseudoyu"

@@ -1417,6 +1417,7 @@ export type RoutePath =
   | `/hust/yjs`
   | `/huxiu/article`
   | `/huxiu/author/:id/:type?`
+  | `/huxiu/briefcolumn/:id`
   | `/huxiu/channel/:id?`
   | `/huxiu/club/:id`
   | `/huxiu/collection/:id`
