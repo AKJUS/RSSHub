@@ -3257,7 +3257,9 @@
     "gz4zzxc"
   ],
   "/gdut/oa_news/:type?": [
-    "jim-kirisame"
+    "jim-kirisame",
+    "GamerNoTitle",
+    "Richard-Zheng"
   ],
   "/geekpark/:column?": [
     "nczitzk"
@@ -4504,9 +4506,6 @@
   ],
   "/infoq/topic/:id": [
     "brilon"
-  ],
-  "/informedainews/zh-Hans/docs/:type": [
-    "guicaiyue"
   ],
   "/informs/:category?": [
     "Fatpandac"
