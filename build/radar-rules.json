@@ -27751,6 +27751,20 @@
       }
     ]
   },
+  "lancedb.com": {
+    "_name": "LanceDB",
+    ".": [
+      {
+        "title": "Blog",
+        "docs": "https://docs.rsshub.app/routes/programming",
+        "source": [
+          "/blog",
+          "/blog/category/:category"
+        ],
+        "target": "/lancedb/blog/:category"
+      }
+    ]
+  },
   "landiannews.com": {
     "_name": "蓝点网",
     "www": [
@@ -34561,6 +34575,26 @@
           "/"
         ],
         "target": "/nowcoder/schedule"
+      }
+    ],
+    "mnowpick": [
+      {
+        "title": "牛客热榜",
+        "docs": "https://docs.rsshub.app/routes/bbs",
+        "source": [
+          "/m/discuss/hot"
+        ],
+        "target": "/nowcoder/hots/:type?"
+      }
+    ],
+    "www": [
+      {
+        "title": "牛客面试经验",
+        "docs": "https://docs.rsshub.app/routes/bbs",
+        "source": [
+          "/interview/"
+        ],
+        "target": "/nowcoder/interview/:jobId"
       }
     ]
   },
