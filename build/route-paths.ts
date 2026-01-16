@@ -748,7 +748,6 @@ export type RoutePath =
   | `/dianping/user/:id`
   | `/diariofruticola/filtro/:filter{.+}`
   | `/diershoubing/news`
-  | `/digg/community/:community`
   | `/digitalcameraworld/news`
   | `/digitalpolicyalert/activity-tracker/:filters?`
   | `/dingshao/share/:shortId`
@@ -2012,8 +2011,6 @@ export type RoutePath =
   | `/now/news/:category?/:id?`
   | `/nowcoder/discuss/:type/:order`
   | `/nowcoder/experience/:tagId`
-  | `/nowcoder/hots/:type?`
-  | `/nowcoder/interview/:jobId`
   | `/nowcoder/jobcenter/:recruitType?/:city?/:type?/:order?/:latest?`
   | `/nowcoder/recommend`
   | `/nowcoder/schedule/:propertyId?/:typeId?`

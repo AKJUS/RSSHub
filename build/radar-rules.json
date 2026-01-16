@@ -14677,19 +14677,6 @@
       }
     ]
   },
-  "digg.com": {
-    "_name": "Digg",
-    ".": [
-      {
-        "title": "Community Posts",
-        "docs": "https://docs.rsshub.app/routes/social-media",
-        "source": [
-          "/:community"
-        ],
-        "target": "/digg/community/:community"
-      }
-    ]
-  },
   "digitalcameraworld.com": {
     "_name": "Digital Camera World",
     ".": [
@@ -34588,26 +34575,6 @@
           "/"
         ],
         "target": "/nowcoder/schedule"
-      }
-    ],
-    "mnowpick": [
-      {
-        "title": "牛客热榜",
-        "docs": "https://docs.rsshub.app/routes/bbs",
-        "source": [
-          "/m/discuss/hot"
-        ],
-        "target": "/nowcoder/hots/:type?"
-      }
-    ],
-    "www": [
-      {
-        "title": "牛客面试经验",
-        "docs": "https://docs.rsshub.app/routes/bbs",
-        "source": [
-          "/interview/"
-        ],
-        "target": "/nowcoder/interview/:jobId"
       }
     ]
   },
