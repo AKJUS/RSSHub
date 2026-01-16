@@ -955,6 +955,24 @@
   "/bilibili/manga/update/:comicid": [
     "hoilc"
   ],
+  "/bilibili/message/at/:uid": [
+    "pilgrimlyieu"
+  ],
+  "/bilibili/message/like/:uid": [
+    "pilgrimlyieu"
+  ],
+  "/bilibili/message/reply/:uid": [
+    "pilgrimlyieu"
+  ],
+  "/bilibili/message/sessions/:uid": [
+    "pilgrimlyieu"
+  ],
+  "/bilibili/message/system/:uid": [
+    "pilgrimlyieu"
+  ],
+  "/bilibili/message/unread/:uid": [
+    "pilgrimlyieu"
+  ],
   "/bilibili/video/page/:bvid/:embed?": [
     "sxzz"
   ],
@@ -2250,6 +2268,9 @@
   ],
   "/diershoubing/news": [
     "wushijishan"
+  ],
+  "/digg/community/:community": [
+    "TonyRL"
   ],
   "/digitalcameraworld/news": [
     "EthanWng97"
@@ -6127,6 +6148,12 @@
   ],
   "/nowcoder/experience/:tagId": [
     "huyyi"
+  ],
+  "/nowcoder/hots/:type?": [
+    "xia0ne"
+  ],
+  "/nowcoder/interview/:jobId": [
+    "xia0ne"
   ],
   "/nowcoder/jobcenter/:recruitType?/:city?/:type?/:order?/:latest?": [
     "nczitzk"

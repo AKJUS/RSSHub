@@ -306,6 +306,12 @@ export type RoutePath =
   | `/bilibili/mall/new/:category?`
   | `/bilibili/manga/followings/:uid/:limits?`
   | `/bilibili/manga/update/:comicid`
+  | `/bilibili/message/at/:uid`
+  | `/bilibili/message/like/:uid`
+  | `/bilibili/message/reply/:uid`
+  | `/bilibili/message/sessions/:uid`
+  | `/bilibili/message/system/:uid`
+  | `/bilibili/message/unread/:uid`
   | `/bilibili/partion/:tid/:embed?`
   | `/bilibili/partion/ranking/:tid/:days?/:embed?`
   | `/bilibili/platform/:area?/:p_type?/:uid?`
@@ -748,6 +754,7 @@ export type RoutePath =
   | `/dianping/user/:id`
   | `/diariofruticola/filtro/:filter{.+}`
   | `/diershoubing/news`
+  | `/digg/community/:community`
   | `/digitalcameraworld/news`
   | `/digitalpolicyalert/activity-tracker/:filters?`
   | `/dingshao/share/:shortId`
@@ -2011,6 +2018,8 @@ export type RoutePath =
   | `/now/news/:category?/:id?`
   | `/nowcoder/discuss/:type/:order`
   | `/nowcoder/experience/:tagId`
+  | `/nowcoder/hots/:type?`
+  | `/nowcoder/interview/:jobId`
   | `/nowcoder/jobcenter/:recruitType?/:city?/:type?/:order?/:latest?`
   | `/nowcoder/recommend`
   | `/nowcoder/schedule/:propertyId?/:typeId?`
