@@ -403,9 +403,6 @@
   "/ahjzu/news": [
     "Yuk-0v0"
   ],
-  "/ai-bot/daily-ai-news": [
-    "redwood9"
-  ],
   "/aiaa/journal/:journalID": [
     "HappyZhu99"
   ],
@@ -5680,9 +5677,6 @@
   ],
   "/mrdx/today": [
     "Dustin-Jiang"
-  ],
-  "/mrinalxdev/blog": [
-    "jack-110"
   ],
   "/mrm/:category?": [
     "TonyRL"

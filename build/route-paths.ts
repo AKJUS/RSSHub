@@ -135,7 +135,6 @@ export type RoutePath =
   | `/agora0/pen0`
   | `/agri/:category{.+}?`
   | `/ahjzu/news`
-  | `/ai-bot/daily-ai-news`
   | `/aiaa/journal/:journalID`
   | `/aibase/daily`
   | `/aibase/discover/:id?`
@@ -1865,7 +1864,6 @@ export type RoutePath =
   | `/mpaypass/main/:type?`
   | `/mpaypass/news`
   | `/mrdx/today`
-  | `/mrinalxdev/blog`
   | `/mrm/:category?`
   | `/msn/:market/:name/:id`
   | `/musify/:language?`
