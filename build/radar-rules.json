@@ -14765,6 +14765,14 @@
           "/channels/:guildId/:channelId"
         ],
         "target": "/discord/channel/:channelId"
+      },
+      {
+        "title": "Quests",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/quest-home"
+        ],
+        "target": "/discord/quests"
       }
     ]
   },
@@ -17483,6 +17491,43 @@
           "/review"
         ],
         "target": "/gamersky/review"
+      }
+    ]
+  },
+  "ganjingworld.com": {
+    "_name": "Ganjing World",
+    ".": [
+      {
+        "title": "Articles in a channel",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/"
+        ],
+        "target": "/ganjingworld/channel/articles/:id"
+      },
+      {
+        "title": "posts in a channel",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/"
+        ],
+        "target": "/ganjingworld/channel/posts/:id"
+      },
+      {
+        "title": "Shorts in a channel",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/"
+        ],
+        "target": "/ganjingworld/channel/shorts/:id"
+      },
+      {
+        "title": "Videos in a channel",
+        "docs": "https://docs.rsshub.app/routes/social-media",
+        "source": [
+          "/"
+        ],
+        "target": "/ganjingworld/channel/videos/:id"
       }
     ]
   },

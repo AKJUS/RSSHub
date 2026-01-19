@@ -760,6 +760,7 @@ export type RoutePath =
   | `/digitalpolicyalert/activity-tracker/:filters?`
   | `/dingshao/share/:shortId`
   | `/discord/channel/:channelId`
+  | `/discord/quests`
   | `/discord/search/:guildId/:routeParams`
   | `/discourse/:configId/notifications/:fulltext?`
   | `/discourse/:configId/official/:path{.+}`
@@ -1048,6 +1049,10 @@ export type RoutePath =
   | `/gamersky/review/:type?`
   | `/gamme/:domain/:category?`
   | `/gamme/:domain/tag/:tag`
+  | `/ganjingworld/channel/articles/:id`
+  | `/ganjingworld/channel/posts/:id`
+  | `/ganjingworld/channel/shorts/:id`
+  | `/ganjingworld/channel/videos/:id`
   | `/gaoyu/blog`
   | `/gc.ca/pm/:language?`
   | `/gcores/articles`
