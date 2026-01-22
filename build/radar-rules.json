@@ -8299,19 +8299,6 @@
       }
     ]
   },
-  "bvisness.me": {
-    "_name": "Ben Visness",
-    ".": [
-      {
-        "title": "Blog",
-        "docs": "https://docs.rsshub.app/routes/blog",
-        "source": [
-          "/"
-        ],
-        "target": "/bvisness/blog"
-      }
-    ]
-  },
   "byau.edu.cn": {
     "_name": "黑龙江八一农垦大学",
     "xinwen": [
@@ -41689,79 +41676,6 @@
           "/phame/post/view/:post_id/:post_title/"
         ],
         "target": "/sketis/isabelle-dev/blog/2"
-      }
-    ]
-  },
-  "slashdot.org": {
-    "_name": "Slashdot",
-    ".": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/:section?"
-      }
-    ],
-    "devices": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/devices"
-      }
-    ],
-    "build": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/build"
-      }
-    ],
-    "entertainment": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/entertainment"
-      }
-    ],
-    "technology": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/technology"
-      }
-    ],
-    "science": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/science"
-      }
-    ],
-    "yro": [
-      {
-        "title": "News",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/"
-        ],
-        "target": "/slashdot/yro"
       }
     ]
   },
