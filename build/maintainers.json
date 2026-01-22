@@ -1266,6 +1266,9 @@
   "/bupt/scss/tzgg": [
     "ziri2004"
   ],
+  "/bvisness/blog": [
+    "raxod502"
+  ],
   "/bwsg*": [
     "sk22"
   ],
@@ -1815,6 +1818,12 @@
   ],
   "/cockroachlabs/blog/:category?": [
     "CookiePieWw"
+  ],
+  "/codefather/posts/:category?/:sort?": [
+    "JackyST0"
+  ],
+  "/codefather/questions/:sort?": [
+    "JackyST0"
   ],
   "/codeforces/contests": [
     "Fatpandac"
@@ -7708,6 +7717,9 @@
   "/skysports/news/:team": [
     "nczitzk"
   ],
+  "/slashdot/:section?": [
+    "TonyRL"
+  ],
   "/slowmist/:type?": [
     "AtlasQuan"
   ],
@@ -8600,6 +8612,9 @@
   ],
   "/tynu/": [
     "2PoL"
+  ],
+  "/typeless/changelog": [
+    "TonyRL"
   ],
   "/typora/changelog/dev": [
     "nczitzk"

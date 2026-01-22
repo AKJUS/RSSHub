@@ -417,6 +417,7 @@ export type RoutePath =
   | `/bupt/jwc/:type`
   | `/bupt/rczp`
   | `/bupt/scss/tzgg`
+  | `/bvisness/blog`
   | `/bwsg*`
   | `/byau/news/:type_id`
   | `/byteclicks/`
@@ -602,6 +603,8 @@ export type RoutePath =
   | `/cnu/physics`
   | `/cnu/smkxxy`
   | `/cockroachlabs/blog/:category?`
+  | `/codefather/posts/:category?/:sort?`
+  | `/codefather/questions/:sort?`
   | `/codeforces/contests`
   | `/codeforces/recent-actions/:minrating?`
   | `/cognition/blog`
@@ -2515,6 +2518,7 @@ export type RoutePath =
   | `/skebetter/manga/:order`
   | `/sketis/isabelle-dev/blog/:blog`
   | `/skysports/news/:team`
+  | `/slashdot/:section?`
   | `/slowmist/:type?`
   | `/smartlink/:site`
   | `/smashingmagazine/:category?`
@@ -2798,6 +2802,7 @@ export type RoutePath =
   | `/txks/news`
   | `/txrjy/fornumtopic/:channel?`
   | `/tynu/`
+  | `/typeless/changelog`
   | `/typora/changelog`
   | `/typora/changelog/dev`
   | `/typst/universe`
