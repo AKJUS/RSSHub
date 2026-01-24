@@ -1786,6 +1786,9 @@ export type RoutePath =
   | `/manhuagui/subscribe`
   | `/manus/blog`
   | `/manyvids/profile/vids/:uid`
+  | `/maoyan/box`
+  | `/maoyan/coming`
+  | `/maoyan/hot`
   | `/mashiro/:lang`
   | `/mastodon/account_id/:site/:account_id/statuses/:only_media?`
   | `/mastodon/acct/:acct/statuses/:only_media?`
@@ -3186,4 +3189,17 @@ export type RoutePath =
   | `/zuvio/student5/boards`
   | `/zxcs/novel/:type`
   | `/zyshow*`
-  | `/zyw/hot/:site?`;
+  | `/zyw/hot/:site?`
+  | `/zzu/dwzzb/:type`
+  | `/zzu/dzb/:type`
+  | `/zzu/gs/:type`
+  | `/zzu/jwc/:type`
+  | `/zzu/kjc/:type`
+  | `/zzu/news/:type`
+  | `/zzu/rsc/:type`
+  | `/zzu/ss/:type`
+  | `/zzu/student/:type`
+  | `/zzu/tzhb/:type`
+  | `/zzu/xbx/:type`
+  | `/zzu/xuan/:type`
+  | `/zzu/zcycwb/:type`;
