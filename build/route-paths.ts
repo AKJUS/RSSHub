@@ -1175,7 +1175,6 @@ export type RoutePath =
   | `/gov/gaozhou/*`
   | `/gov/guangdong/tqyb/sncsyjxh`
   | `/gov/guangdong/tqyb/tfxtq`
-  | `/gov/guizhou/jyt/tzgg`
   | `/gov/gz/:channel/:category`
   | `/gov/hainan/iitb/tzgg`
   | `/gov/hangzhou/zwfw`
@@ -1787,9 +1786,6 @@ export type RoutePath =
   | `/manhuagui/subscribe`
   | `/manus/blog`
   | `/manyvids/profile/vids/:uid`
-  | `/maoyan/box`
-  | `/maoyan/coming`
-  | `/maoyan/hot`
   | `/mashiro/:lang`
   | `/mastodon/account_id/:site/:account_id/statuses/:only_media?`
   | `/mastodon/acct/:acct/statuses/:only_media?`

@@ -19391,20 +19391,6 @@
       }
     ]
   },
-  "guizhou.gov.cn": {
-    "_name": "深圳市罗湖区人民政府",
-    "jyt": [
-      {
-        "title": "贵州省教育厅 - 通知公告",
-        "docs": "https://docs.rsshub.app/routes/government",
-        "source": [
-          "/zwgk/tzgg/",
-          "/zwgk/tzgg/index.html"
-        ],
-        "target": "/gov/guizhou/jyt/tzgg"
-      }
-    ]
-  },
   "hangzhou.gov.cn": {
     "_name": "深圳市罗湖区人民政府",
     ".": [
@@ -29058,38 +29044,6 @@
           "/Profile/:uid/:handle/Store"
         ],
         "target": "/manyvids/profile/vids/:uid"
-      }
-    ]
-  },
-  "maoyan.com": {
-    "_name": "猫眼电影",
-    "piaofang": [
-      {
-        "title": "实时票房榜",
-        "docs": "https://docs.rsshub.app/routes/multimedia",
-        "source": [
-          "/dashboard"
-        ],
-        "target": "/maoyan/box"
-      }
-    ],
-    "www": [
-      {
-        "title": "即将上映",
-        "docs": "https://docs.rsshub.app/routes/multimedia",
-        "source": [
-          "/films?showType=2",
-          "/films"
-        ],
-        "target": "/maoyan/coming"
-      },
-      {
-        "title": "正在热映",
-        "docs": "https://docs.rsshub.app/routes/multimedia",
-        "source": [
-          "/films?showType=1"
-        ],
-        "target": "/maoyan/hot"
       }
     ]
   },
