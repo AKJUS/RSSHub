@@ -823,7 +823,8 @@
     "AiraNadih"
   ],
   "/baoyu/blog": [
-    "liyaozhong"
+    "liyaozhong",
+    "Circloud"
   ],
   "/baozimh/comic/:name": [
     "Fatpandac"
@@ -3607,6 +3608,9 @@
   "/gov/guangdong/tqyb/tfxtq": [
     "Fatpandac"
   ],
+  "/gov/guizhou/jyt/tzgg": [
+    "sheetung"
+  ],
   "/gov/gz/:channel/:category": [],
   "/gov/hainan/iitb/tzgg": [
     "p3psi-boo"
@@ -5430,6 +5434,15 @@
   ],
   "/manyvids/profile/vids/:uid": [
     "TonyRL"
+  ],
+  "/maoyan/box": [
+    "JackyST0"
+  ],
+  "/maoyan/coming": [
+    "JackyST0"
+  ],
+  "/maoyan/hot": [
+    "JackyST0"
   ],
   "/mashiro/:lang": [
     "MuenYu"
