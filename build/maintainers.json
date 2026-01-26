@@ -823,7 +823,8 @@
     "AiraNadih"
   ],
   "/baoyu/blog": [
-    "liyaozhong"
+    "liyaozhong",
+    "Circloud"
   ],
   "/baozimh/comic/:name": [
     "Fatpandac"
@@ -9281,6 +9282,9 @@
   ],
   "/xinpianchang/rank/:category?": [
     "nczitzk"
+  ],
+  "/xjtlu/news/:lang?/:category?": [
+    "Circloud"
   ],
   "/xjtu/2yuan/news/:id?": [
     "nczitzk"
