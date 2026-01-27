@@ -2105,6 +2105,7 @@ export type RoutePath =
   | `/onehu/`
   | `/onet/news`
   | `/oo-software/changelog/:id`
+  | `/openai/chatgpt-atlas/release-notes`
   | `/openai/chatgpt/release-notes`
   | `/openai/cookbook`
   | `/openai/news`
@@ -3017,6 +3018,7 @@ export type RoutePath =
   | `/xinpianchang/:params?`
   | `/xinpianchang/discover/:params?`
   | `/xinpianchang/rank/:category?`
+  | `/xjtlu/news/:lang?/:category?`
   | `/xjtu/2yuan/news/:id?`
   | `/xjtu/dean/:subpath{.+}`
   | `/xjtu/dyyy/:path{.+}`
@@ -3196,10 +3198,12 @@ export type RoutePath =
   | `/zzu/gs/:type`
   | `/zzu/jwc/:type`
   | `/zzu/kjc/:type`
+  | `/zzu/math/:type`
   | `/zzu/news/:type`
   | `/zzu/rsc/:type`
   | `/zzu/ss/:type`
   | `/zzu/student/:type`
+  | `/zzu/sxy/:type`
   | `/zzu/tzhb/:type`
   | `/zzu/xbx/:type`
   | `/zzu/xuan/:type`
