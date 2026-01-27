@@ -6436,9 +6436,6 @@
   "/oo-software/changelog/:id": [
     "nczitzk"
   ],
-  "/openai/chatgpt-atlas/release-notes": [
-    "xbot"
-  ],
   "/openai/chatgpt/release-notes": [],
   "/openai/cookbook": [
     "liyaozhong"
@@ -9285,9 +9282,6 @@
   ],
   "/xinpianchang/rank/:category?": [
     "nczitzk"
-  ],
-  "/xjtlu/news/:lang?/:category?": [
-    "Circloud"
   ],
   "/xjtu/2yuan/news/:id?": [
     "nczitzk"
