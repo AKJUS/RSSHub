@@ -1855,8 +1855,6 @@ export type RoutePath =
   | `/misskon/tag/:tag`
   | `/misskon/top/:k`
   | `/mit/hanlab/blog`
-  | `/mit/scratch/user-comments/:username`
-  | `/mit/scratch/user-projects/:username`
   | `/mittrchina/:type?`
   | `/miui/community/user/:uid`
   | `/miui/firmware/:device/:type?/:region?`
@@ -2131,6 +2129,7 @@ export type RoutePath =
   | `/oschina/news/:category?`
   | `/oschina/topic/:topic`
   | `/oschina/u/:uid`
+  | `/oschina/user/:id`
   | `/oshwhub/explore/:type?/:origin?/:projectTag{.+}?`
   | `/osu/latest-ranked/:routeParams?`
   | `/osu/packs/:type?`

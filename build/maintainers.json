@@ -5650,12 +5650,6 @@
   "/mit/hanlab/blog": [
     "johan456789"
   ],
-  "/mit/scratch/user-comments/:username": [
-    "Skota11"
-  ],
-  "/mit/scratch/user-projects/:username": [
-    "Skota11"
-  ],
   "/mittrchina/:type?": [
     "EsuRt",
     "queensferryme"
@@ -6513,9 +6507,8 @@
   "/oschina/topic/:topic": [
     "loveely7"
   ],
-  "/oschina/u/:uid": [
-    "dxmpalb"
-  ],
+  "/oschina/u/:uid": [],
+  "/oschina/user/:id": [],
   "/oshwhub/explore/:type?/:origin?/:projectTag{.+}?": [
     "tylinux",
     "nczitzk"

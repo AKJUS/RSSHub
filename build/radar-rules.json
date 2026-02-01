@@ -31990,24 +31990,6 @@
         ],
         "target": "/mit/hanlab/blog"
       }
-    ],
-    "scratch": [
-      {
-        "title": "Scratch User Comments",
-        "docs": "https://docs.rsshub.app/routes/social-media",
-        "source": [
-          "/users/:username/"
-        ],
-        "target": "/mit/scratch/user-comments/:username"
-      },
-      {
-        "title": "Scratch User Projects",
-        "docs": "https://docs.rsshub.app/routes/social-media",
-        "source": [
-          "/users/:username/projects/"
-        ],
-        "target": "/mit/scratch/user-projects/:username"
-      }
     ]
   },
   "miui.com": {
@@ -35289,9 +35271,9 @@
         "title": "资讯",
         "docs": "https://docs.rsshub.app/routes/programming",
         "source": [
-          "/"
+          "/news/:category"
         ],
-        "target": "/oschina/news"
+        "target": "/oschina/news/:category"
       },
       {
         "title": "问答主题",
@@ -35304,13 +35286,20 @@
     ],
     "my": [
       {
-        "title": "用户博客",
+        "title": "数字型账号用户博客",
         "docs": "https://docs.rsshub.app/routes/programming",
         "source": [
-          "/u/:uid",
-          "/:uid"
+          "/u/:uid"
         ],
         "target": "/oschina/u/:uid"
+      },
+      {
+        "title": "数字型账号用户博客",
+        "docs": "https://docs.rsshub.app/routes/programming",
+        "source": [
+          "/u/:uid"
+        ],
+        "target": "/oschina/user/:id"
       }
     ]
   },
