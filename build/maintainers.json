@@ -3455,6 +3455,9 @@
   "/github/wiki/:user/:repo/:page?": [
     "TonyRL"
   ],
+  "/gitkraken/release-note": [
+    "TonyRL"
+  ],
   "/gitpod/blog": [
     "TonyRL"
   ],
@@ -7064,6 +7067,9 @@
   "/qstheory/magazine/:magazine": [
     "TonyRL",
     "cscnk52"
+  ],
+  "/quantamagazine/archive": [
+    "emdoe"
   ],
   "/questmobile/report/:industry?/:label?": [
     "nczitzk"
