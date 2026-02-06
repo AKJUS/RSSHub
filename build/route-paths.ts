@@ -479,7 +479,6 @@ export type RoutePath =
   | `/ccf/tfbd/:caty/:id`
   | `/ccfa/:type?`
   | `/ccg/:category?`
-  | `/ccmn/price-adjustment/:category`
   | `/ccnu/career`
   | `/ccnu/cs`
   | `/ccnu/wu`
